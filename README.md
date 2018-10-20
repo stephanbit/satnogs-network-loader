@@ -1,5 +1,4 @@
 # satnogs-network-loader
-Get data from 
 
 ## Getting started
 
